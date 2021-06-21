@@ -30,8 +30,8 @@ Enter pass phrase for CA/Skywalkers/Skywalkers.key:
 
 ## https-cert.sh
 
-#### Description
-Creates a new server certificate cerificate authority with name *name* under `CA/name`
+### Description
+Creates a new server certificate with name *name* under `CA/authority/name` for CA *authority*
 
 #### Example Usage
 ```
